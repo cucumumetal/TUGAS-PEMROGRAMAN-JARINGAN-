@@ -1,0 +1,14 @@
+D:\TUGAS PIPIT\TUGAS PIPIT\TUGAS SMT 5\PEMROGRAMAN JARINGAN\Praktikumstream\bin\Debug\net8.0\Praktikumstream.exe
+D:\TUGAS PIPIT\TUGAS PIPIT\TUGAS SMT 5\PEMROGRAMAN JARINGAN\Praktikumstream\bin\Debug\net8.0\Praktikumstream.deps.json
+D:\TUGAS PIPIT\TUGAS PIPIT\TUGAS SMT 5\PEMROGRAMAN JARINGAN\Praktikumstream\bin\Debug\net8.0\Praktikumstream.runtimeconfig.json
+D:\TUGAS PIPIT\TUGAS PIPIT\TUGAS SMT 5\PEMROGRAMAN JARINGAN\Praktikumstream\bin\Debug\net8.0\Praktikumstream.dll
+D:\TUGAS PIPIT\TUGAS PIPIT\TUGAS SMT 5\PEMROGRAMAN JARINGAN\Praktikumstream\bin\Debug\net8.0\Praktikumstream.pdb
+D:\TUGAS PIPIT\TUGAS PIPIT\TUGAS SMT 5\PEMROGRAMAN JARINGAN\Praktikumstream\obj\Debug\net8.0\Praktikumstream.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUGAS PIPIT\TUGAS PIPIT\TUGAS SMT 5\PEMROGRAMAN JARINGAN\Praktikumstream\obj\Debug\net8.0\Praktikumstream.AssemblyInfoInputs.cache
+D:\TUGAS PIPIT\TUGAS PIPIT\TUGAS SMT 5\PEMROGRAMAN JARINGAN\Praktikumstream\obj\Debug\net8.0\Praktikumstream.AssemblyInfo.cs
+D:\TUGAS PIPIT\TUGAS PIPIT\TUGAS SMT 5\PEMROGRAMAN JARINGAN\Praktikumstream\obj\Debug\net8.0\Praktikumstream.csproj.CoreCompileInputs.cache
+D:\TUGAS PIPIT\TUGAS PIPIT\TUGAS SMT 5\PEMROGRAMAN JARINGAN\Praktikumstream\obj\Debug\net8.0\Praktikumstream.dll
+D:\TUGAS PIPIT\TUGAS PIPIT\TUGAS SMT 5\PEMROGRAMAN JARINGAN\Praktikumstream\obj\Debug\net8.0\refint\Praktikumstream.dll
+D:\TUGAS PIPIT\TUGAS PIPIT\TUGAS SMT 5\PEMROGRAMAN JARINGAN\Praktikumstream\obj\Debug\net8.0\Praktikumstream.pdb
+D:\TUGAS PIPIT\TUGAS PIPIT\TUGAS SMT 5\PEMROGRAMAN JARINGAN\Praktikumstream\obj\Debug\net8.0\Praktikumstream.genruntimeconfig.cache
+D:\TUGAS PIPIT\TUGAS PIPIT\TUGAS SMT 5\PEMROGRAMAN JARINGAN\Praktikumstream\obj\Debug\net8.0\ref\Praktikumstream.dll

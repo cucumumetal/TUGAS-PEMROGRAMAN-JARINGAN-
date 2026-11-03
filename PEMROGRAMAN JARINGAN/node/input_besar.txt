@@ -1,0 +1,20 @@
+A. Sisi Pengirim: OOP Object (Memori) & Serialisasi
+• OOP Object (Platform-Dependent): Di dalam memori komputer pengirim, data disimpan dalam bentuk objek Pemrograman
+Berorientasi Objek (OOP) seperti Java, Python, atau Node.js. Objek ini kompleks dan memiliki properti terpisah seperti Nama, Foto,
+dan Daftar Riwayat. Format memori ini terikat pada platform/bahasa pemrograman tertentu (Platform-Dependent) sehingga tidak
+bisa langsung dikirim mentah-mentah lewat kabel jaringan.
+• Mesin Konversi (Serialisasi): Objek tersebut dimasukkan ke dalam mesin konversi untuk menjalani proses Serialisasi (Serialization).
+• Data Stream / Stream Transmisi: Hasil dari serialisasi adalah objek yang telah dibongkar menjadi aliran linear data bebas platform
+(format platform-independent). Bentuknya bisa berupa:
+• Bita/Binary (001101): Aliran bita biner murni yang sangat cepat dan efisien.
+• JSON (Text): Format teks terstruktur berbasis JavaScript Object Notation yang mudah dibaca manusia.
+• XML (Text): Format teks berbasis tag penanda.
+Data inilah yang mengalir di dalam "pipa" jaringan komputer.
+B. Sisi Penerima: Deserialisasi & Objek Utuh
+• Aliran Bita/Teks (JSON/XML): Data stream yang berjalan di kabel jaringan atau internet akhirnya sampai di komputer
+penerima.
+• Konversi Kebalikannya (Deserialisasi): Data stream masuk ke mesin konversi penerima untuk menjalani Deserialisasi
+(Deserialization). Proses ini membaca aliran data tersebut lalu merakitnya kembali.
+• Objek Utuh (Aktif di Memori Penerima): Setelah dirakit, objek kembali ke bentuk semula menjadi objek OOP utuh di
+memori penerima lengkap dengan properti Nama, Foto, dan Daftar Riwayat yang siap digunakan oleh aplikasi
+komputer penerima.
